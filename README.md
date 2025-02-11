@@ -27,7 +27,7 @@ Run node index.js in integrated terminal to use application.
 
 ## Video
 
-![Watch the video](https://drive.google.com/file/d/1GhUbKu8ZOd2UlxxiYzh9xHLtZ94p3Gyp/view)
+[Watch the video](https://drive.google.com/file/d/1GhUbKu8ZOd2UlxxiYzh9xHLtZ94p3Gyp/view)
 
 ## **Repo:**
 
